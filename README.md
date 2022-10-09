@@ -2,9 +2,7 @@
 Have never worked with repositories or pull request this is your chance to break into it!!
 
 # Contributors
-<a href="https://github.com/OWNER/REPO/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=OWNER/REPO" />
-</a>
+<a href="https://github.com/OWNER/REPO/graphs/contributors"> <img src="https://contrib.rocks/image?repo=OWNER/REPO" /></a>
 
 # How to contribute for Hacktoberfest 2022 
 
